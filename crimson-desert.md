@@ -31,7 +31,6 @@ Crimson Desert began life with MMO roots and became a single-player adventure se
 ## The Game
 
 ![Crimson Desert](crimsondesert.png)
-*Image: The world of Pywel in Crimson Desert.*
 
 | Feature        | Details                                              |
 |----------------|------------------------------------------------------|

@@ -32,7 +32,6 @@ The game follows Bond before he becomes the 007 we know, using IOI's Glacier eng
 ## The Game
 
 ![007 First Light](007_firstlight.png)
-*Image: James Bond in 007 First Light.*
 
 | Feature        | Details                                              |
 |----------------|------------------------------------------------------|

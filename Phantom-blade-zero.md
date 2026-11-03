@@ -32,7 +32,6 @@ You play **Soul**, an elite assassin who has only **66 days** to live and wants 
 ## The Game
 
 ![Phantom Blade Zero](Phantom_blade.png)
-*Image: Soul in Phantom Blade Zero.*
 
 | Feature        | Details                                              |
 |----------------|------------------------------------------------------|

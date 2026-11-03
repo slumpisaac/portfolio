@@ -32,7 +32,6 @@ The story follows **Grace Ashcroft** in tense survival horror, while longtime he
 ## The Game
 
 ![Resident Evil Requiem](Resident_evil.png)
-*Image: Grace Ashcroft in Resident Evil Requiem.*
 
 | Feature        | Details                                              |
 |----------------|------------------------------------------------------|
